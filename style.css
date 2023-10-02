@@ -1,0 +1,214 @@
+*{
+  font-family: Charm, "Helvetica Neue";
+}
+h1 {
+  font-size:xx-large;
+  color: #222;
+  gap: 20px;
+  padding: 20px 20px;
+}
+h2{
+  font-size: large;
+  text-align: center;
+  gap: 20px;
+  padding: 20px 20px;
+}
+
+
+.header {
+    background-color: #222;
+    color: blanchedalmond;
+	  flex-direction: row;
+    margin: 0;
+    padding: 0%;
+    height: auto;
+    font-size: 20px;
+    
+}
+.navbar hover{
+  background-color:#2222 ;
+}
+
+ul {
+    list-style: none; 
+    padding: 0;
+    display: flex;
+	  flex-direction: row;
+	  flex-wrap: wrap;
+	  justify-content: space-around;
+	  align-items: baseline;
+	  align-content: stretch;
+    text-decoration: none;
+    
+  }
+  
+  ul li {
+    margin-bottom: 10px; 
+    
+  }
+  
+  
+  ul li i {
+    
+    margin-right: 10px; 
+    font-size: 20px; 
+  
+  }
+  
+  
+.navbar{
+  display: flex; 
+	flex-direction: row;
+	flex-wrap: wrap-reverse;
+	justify-content: space-around;
+	align-items: flex-end;
+	align-content: stretch; 
+  text-decoration: none;
+  background-color: #222;
+  
+
+
+}
+.navbar a {
+  text-align: center;
+  text-decoration: none;
+  text-emphasis: none;
+  color: #fff;
+  list-style: none; 
+  font-size: 20px;
+  
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+h1{
+    color: #222 (5, 17, 17);
+    text-align: center;
+    font-size: 50px;
+  
+    
+}
+.pagos > img {
+width: 80px;
+height: 80px;
+}
+.pagos{
+    background-color: #222;
+     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+  align-content: stretch;
+    }
+  h3{
+    text-align: center;
+    font-size: 30px;
+  }
+  ul li a {
+    text-decoration: none; 
+    color: #000; 
+  }
+  
+ 
+  ul li a:hover {
+    color: #ff5733; 
+  }
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); 
+    gap: 20px; 
+    padding: 20px; 
+    justify-content: center; 
+    align-content: center; 
+    border: inset;
+  }
+  .card-Item {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    &:hover {
+      background-color: #a55333;
+      color: #f1ffa3;
+      border: inset;
+    
+    }
+  }
+  .img-card-item {
+    max-width: 50%;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  .button-detalles {
+      background-color: #901d00;
+      color: #fff;
+      padding: 18px 16px;
+      border-radius: 8px;
+      
+      margin-top: 10px;
+      text-align: center;
+      display: flex;
+	   flex-direction: row;
+	   flex-wrap: wrap-reverse;
+	   justify-content: center;
+	   align-items: center;
+	   align-content: flex-start;
+  }
+     
+.detalle-producto {
+  padding: 20px; 
+  margin: 20px 0; 
+  background-color: #fffbf3; 
+  cursor: pointer;
+}
+
+.detalle-producto h4 {
+  font-size: 24px; 
+  margin: 0; 
+}
+
+.detalle-producto .img-card-item {
+  max-width: 80%; 
+  height: auto; 
+  margin-top: 10px;
+  border-radius: 10px;
+  border: #901d00;
+}
+
+.detalle-producto p {
+  margin: 10px 0; 
+}
+
+
+.detalle-producto p.precio {
+  font-weight: bold; 
+  font-size: 20px; 
+}
+
+footer{
+  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+  }
+ 
+  .autor{
+    text-align: center;
+    font-size: 10px;
+  }
+
+    
+
+
+
+
+  

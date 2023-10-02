@@ -1,0 +1,102 @@
+[
+    {
+      "nombre": "Mate Camionero Uruguayo",
+      "material": "Calabaza y Cuero",
+      "altura": 60,
+      "diámetro": 35,
+      "imagenes":["./img.productos/matecamionerouruguayo.png","./img.productos/matecamionerouruguayo2.png"],
+      "precio": 5.600,
+      "description":"MATE elaborado con materiales de primera calidad, calabaza seleccionada de paredes gruesas, que logran la armonía perfecta entre su excelente aspecto exterior y un interior respetable con capacidad para la cantidad ideal de yerba. Su elaboración artesanal, tallado completamente a mano, lo convierte en el mate del país para disfrutar de tus infusiones",
+      "id": 1
+    },
+    {
+      "nombre": "Mate Pampa Imperial",
+      "material": "plástico",
+      "altura": 12,
+      "diámetro": 10,
+      "imagenes":["./img.productos/matepampaimperial.png","./img.productos/matepampaimperial2.png"],
+      "precio": 8.900,
+      "description":"Su forma y elegancia remite al mate de cuero, con sus correspondientes costuras,realizado con materiales reciclables que simulan las texturas del cuero",
+      "id": 2
+    },
+    {
+      "nombre": "Mate Imperial Cuero",
+      "material": "cuero",
+      "altura": 12,
+      "diámetro": 10,
+      "imagenes": ["./img.productos/mateimperialcuero.png","./img.productos/mateimperialcuero2.png"],
+      "precio": 17.900,
+      "description": "Nuestros productos son realizados con cuero vacuno ¨vaqueta ¨. Qué es el cuero vaqueta? es un cuero sin procesos posteriores, es el cuero en su estado más rústico, ésto quiere decir que presenta marcas, detalles, rayas, imperfecciones propias de su rusticidad y no son ¨fallas¨ sino que el material es asi",
+      "id": 3
+    },
+    {
+      "nombre": "Mate Camionero Cuatro Patas",
+      "material": "cuero",
+      "altura": 13,
+      "diámetro": 10,
+      "imagenes":["./img.productos/matecamionerocuatrop.png", "./img.productos/mateCamionerocuatropatas.png"],
+      "precio": 7.400,
+      "description": "Mate de cuero de vaca grueso 3mm, la mejor calidad Cuero Grueso Teñido y lustrado",
+      "id": 4
+    },
+    {
+      "nombre": "Mate Pampa Campeon",
+      "material": "plástico",
+      "altura": 12,
+      "diámetro": 10,
+      "imagenes":["./img.productos/matepampacampeon1.png", "./img.productos/matepampacampeon.png"],
+      "precio": 12.000,
+      "description": "Somos hinchas y licenciatarios oficiales de LOS CAMPEONES DEL MUNDO! Claro, merecían el mate pampa de las 3 ESTRELLAS!",
+      "id": 5
+    },
+    {
+      "nombre": "Mate Pampa Imperial XL",
+      "material": "BPAfree",
+      "altura": 12,
+      "diámetro": 14,
+      "imagenes":["./img.productos/matepampaimperialxl.png"],
+      "precio": 14.000,
+      "description": "Presentamos el Mate Pampa en su versión XL con bombilla. Con una capacidad mayor al tradicional para aquellos que disfrutan compartir un buen mate en compañía de amigos y familiares. Este mate está diseñado con tecnología térmica de cámara de aire que mantiene la temperatura del agua por más tiempo. Su tamaño y peso lo hacen mucho más resistente y duradero. Además, su diseño permite una fácil extracción de yerba y un lavado sencillo.",
+      "id": 6
+    },
+    {
+      "nombre": "Mate Imperial de Acero Inoxidable",
+      "material": "acero inoxidable",
+      "altura": 11.5,
+      "diámetro": 9.5,
+      "imagenes":["./img.productos/mateimperialdeacero.png","./img.productos/mateimperialacero2.png"],
+      "precio": 18.000,
+      "description": "Al ser mates artesanales y con su INTERIOR DE ACERO, el lavado es super facil y rapido. No almacena humedad y dura más en el tiempo, y NO NECESITA CURADO.",
+      "id": 7
+    },
+    {
+      "nombre": "Mate Imperial Torpedo",
+      "material": "alpaca,calabaza,cuero croco",
+      "altura": 11,
+      "diámetro": 8,
+      "imagenes":["./img.productos/mateimperialtorpedo.png", "./img.productos/mateimperialtorpedo2.png"],
+      "precio": 30.000,
+      "description":"Cada calabaza crece distinta, a su tiempo y a su forma. Más grandes, más pequeñas, más angostas o amplias; la naturaleza siempre crea y crea distinto. Al pasar los años tu palma desarrollará un vínculo único con aquella textura, con aquella forma, y cada nuevo encuentro con tu mate será un reencuentro con experiencias vividas, momentos guardados y sensaciones grabadas.",
+      "id": 8
+    },
+    {
+      "nombre": "Mate Uruguayo Calabaza-Cuero",
+      "material": "Calabaza y Cuero",
+      "altura": 11,
+      "diámetro": 9,
+      "imagenes":["./img.productos/mateuruguayocalabazacuero.png","./img.productos/mateuruguayocalabazacuero2.png"],
+      "precio": 18.400,
+      "description":"Nuestro mate de calabaza insignia. Hermoso, desde la base a la virola.Por su corte en la calabaza es de boca ancha, que sirve de protección ante posibles derrames de la infusión, y permite un cebado más cómodo.",
+      "id": 9
+    },
+    {
+      "nombre": "Mate Torpedo Especial",
+      "material": "alpaca,calabaza,cuero,torpedo",
+      "altura": 10,
+      "diámetro": 8,
+      "imagenes":["./img.productos/mate.png","./img.productos/mate1.png"],
+      "precio": 48.000,
+      "description":"Realizado de Calabaza Brasileña de selección especial,forrado en cuero vacuno tipo croco legítimo natural y una base reforzada de 4 patas firme y base de alpaca con bolitas. Es el mate ideal en esptilo y calidad.",
+      "id": 10
+    }
+  ]
