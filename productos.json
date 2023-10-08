@@ -54,7 +54,7 @@
       "material": "BPAfree",
       "altura": 12,
       "diámetro": 14,
-      "imagenes":["./img.productos/matepampaimperialxl.png"],
+      "imagenes":["./img.productos/matepampaimperialxl.png", "./img.productos/matepampaimperialxl.png"],
       "precio": 14.000,
       "description": "Presentamos el Mate Pampa en su versión XL con bombilla. Con una capacidad mayor al tradicional para aquellos que disfrutan compartir un buen mate en compañía de amigos y familiares. Este mate está diseñado con tecnología térmica de cámara de aire que mantiene la temperatura del agua por más tiempo. Su tamaño y peso lo hacen mucho más resistente y duradero. Además, su diseño permite una fácil extracción de yerba y un lavado sencillo.",
       "id": 6

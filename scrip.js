@@ -27,8 +27,10 @@ function mostrarProductos(cardProductos, datosProductos) {
     cardItem.classList.add("card-Item"); 
 
     cardItem.innerHTML = `
-      <h4>${producto.nombre}</h4>
-      <img src="${producto.imagenes[0]}" class="img-card-item">
+     <div class="titulo-producto"> <h4>${producto.nombre}</h4></div>
+      <div class="img-container-card-item">
+        <img src="${producto.imagenes[0]}" class="img-card-item">
+      </div>
     `;
 
     const botonDetalles = document.createElement("button");
